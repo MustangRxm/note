@@ -38,3 +38,18 @@
 
 ######以后每次本次提交后，如有必要，可以使用
 	- git push prigin master 推送到远端
+
+####创建并切换到分支
+	- Method1:git branch xxx   
+			  git checkout xxx
+	- Method2:git checkout -b xxx
+
+####将指定分支合并到当前分支
+	- git branch -d xxx
+
+####删除某分支
+	- git branch -d <name>
+
+####恢复误删分支
+	1. git log --branches="被删的分支名"
+	2. git branch develop 版本ID
