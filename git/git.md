@@ -26,7 +26,8 @@
 
 ####撤销文件的修改，回到最后一次commit或者add的状态
 	- git checkout -- file.xxx
-
+####删除文件
+	- git rm xxx
 ####.gitignore文件
 	- 把不需要提交的文件(如一些自动生成的编译文件)写上，那么commit的时候就会自动忽略这些文件的了～
 	
@@ -34,4 +35,6 @@
 	- git remote add origin git@github.com:repo-name.git
 ######关联后使用命令
 	- git push -u origin master 第一次推送master分支的所有内容
-	- 
+
+######以后每次本次提交后，如有必要，可以使用
+	- git push prigin master 推送到远端
