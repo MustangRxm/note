@@ -19,3 +19,9 @@
 	- "HEAD^"是回滚到上一次commit的状态
 	- "HEAD^^"是回滚到上上一次commit的状态
 	- "HEAD~100"是回滚到上100次commit的状态
+
+####查看每一次commit记录的命令
+	- git reflog
+
+####撤销文件的修改，回到最后一次commit或者add的状态
+	- git checkout -- file.xxx
