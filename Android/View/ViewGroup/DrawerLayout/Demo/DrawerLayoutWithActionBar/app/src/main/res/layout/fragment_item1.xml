@@ -1,0 +1,50 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              tools:context="com.example.administrator.drawerlayoutwithactionbar.itemFragment.item1"
+              android:orientation="vertical">
+
+<android.support.design.widget.TabLayout
+    android:id="@+id/tl_fg_item1"
+    app:tabMode="fixed"
+    app:tabTextColor="@color/colorPrimary"
+    app:tabIndicatorColor="@color/colorAccent"
+    app:tabIndicatorHeight="5dp"
+    app:tabBackground="@android:color/holo_purple"
+    app:tabSelectedTextColor="@android:color/holo_orange_light"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+<android.support.design.widget.TabItem
+    android:text="01"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"/>
+    <android.support.design.widget.TabItem
+        android:text="02"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+    <android.support.design.widget.TabItem
+        android:text="03"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</android.support.design.widget.TabLayout>
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp_fg_item1"
+        android:background="@android:color/holo_blue_light"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        >
+
+
+    </android.support.v4.view.ViewPager>
+
+    <!-- TODO: Update blank fragment layout -->
+    <!--<TextView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:text="@string/hello_blank_fragment"/>-->
+
+</LinearLayout>

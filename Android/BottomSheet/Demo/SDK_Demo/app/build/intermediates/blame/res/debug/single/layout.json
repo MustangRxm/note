@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_code.xml",
+        "source": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\src\\main\\res\\layout\\activity_code.xml"
+    },
+    {
+        "merged": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_file.xml",
+        "source": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\src\\main\\res\\layout\\activity_file.xml"
+    },
+    {
+        "merged": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_comment.xml",
+        "source": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\src\\main\\res\\layout\\activity_comment.xml"
+    },
+    {
+        "merged": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_weibo.xml",
+        "source": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\src\\main\\res\\layout\\list_item_weibo.xml"
+    },
+    {
+        "merged": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_file.xml",
+        "source": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\src\\main\\res\\layout\\activity_new_file.xml"
+    },
+    {
+        "merged": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_weibo.xml",
+        "source": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\src\\main\\res\\layout\\activity_weibo.xml"
+    },
+    {
+        "merged": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_push.xml",
+        "source": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\src\\main\\res\\layout\\act_push.xml"
+    },
+    {
+        "merged": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_list.xml",
+        "source": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\src\\main\\res\\layout\\item_list.xml"
+    },
+    {
+        "merged": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_local_thumbnail.xml",
+        "source": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\src\\main\\res\\layout\\activity_local_thumbnail.xml"
+    },
+    {
+        "merged": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bmob_update_dialog.xml",
+        "source": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\src\\main\\res\\layout\\bmob_update_dialog.xml"
+    },
+    {
+        "merged": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_find.xml",
+        "source": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\src\\main\\res\\layout\\activity_find.xml"
+    }
+]

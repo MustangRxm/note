@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ddd</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment1">Hello blank fragment##page1</string>
+    <string name="hello_blank_fragment2">Hello blank fragment##page2</string>
+    <string name="hello_blank_fragment3">Hello blank fragment##page3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDL">openDrawer</string>
+    <string name="closeDL">closeDrawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="maintittle">maintitle</string>
+</resources>

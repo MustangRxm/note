@@ -1,5 +1,6 @@
 package com.example.mai.viewpager01;
 
+import android.annotation.SuppressLint;
 import android.os.Bundle;
 import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
@@ -101,7 +102,31 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    /*uncheck*/
+    @SuppressLint("NewApi")
     private void initEvent() {
+        vp.addOnPageChangeListener(new ViewPager.OnPageChangeListener() {
+            @Override
+            public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
+
+            }
+
+            @Override
+            public void onPageSelected(int position) {
+
+            }
+
+            @Override
+            public void onPageScrollStateChanged(int state) {
+
+            }
+        });
+        vp.setOnScrollChangeListener(new View.OnScrollChangeListener() {
+            @Override
+            public void onScrollChange(View v, int scrollX, int scrollY, int oldScrollX, int oldScrollY) {
+
+            }
+        });
     }
 
     class MyAdapter extends PagerAdapter {

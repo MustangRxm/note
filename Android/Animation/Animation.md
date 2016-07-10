@@ -11,7 +11,7 @@
 >  involves displaying Drawable resources one after another, like a roll of film. This method of animation is useful if you want to animate things that are easier to represent with Drawable resources, such as a progression of bitmaps.
 _________________________________________
 
-####定义动画
+####定义动画---ViewAnimation,Tween
 ######AlphaAnimation 渐变动画 从无到有
 ![icon](01.png)
 ######RotateAnimation 旋转动画

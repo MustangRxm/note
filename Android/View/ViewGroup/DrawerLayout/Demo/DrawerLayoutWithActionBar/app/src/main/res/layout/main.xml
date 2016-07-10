@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout
+    android:id="@+id/dl_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <!--采用层次化结构,因为之前出现过toolbar点击无响应，事件被拦截的情况-->
+ <include layout="@layout/app_bar_main"/>
+
+
+    <!--&lt;!&ndash;当侧滑菜单被隐藏后,所显示的主界面&ndash;&gt;-->
+    <FrameLayout
+        android:id="@+id/content_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+        <ListView
+            android:id="@+id/lv_list"
+
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="start"
+            android:background="#d6de69"
+            android:choiceMode="singleChoice"
+            />
+    <!--NavigationView也是实现侧滑菜单
+
+    -->
+<android.support.design.widget.NavigationView
+    android:id="@+id/nv_list"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_purple"
+    app:menu="@menu/right_menu"
+    android:fitsSystemWindows="true"
+    android:layout_gravity="end"
+    app:headerLayout="@layout/head_layout">
+
+</android.support.design.widget.NavigationView>
+
+
+
+</android.support.v4.widget.DrawerLayout>

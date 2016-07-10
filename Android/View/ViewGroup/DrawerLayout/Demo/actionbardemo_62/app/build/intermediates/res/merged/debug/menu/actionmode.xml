@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        xmlns:itheima="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/action_mode_1"
+        android:icon="@drawable/ic_action_mail"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        itheima:showAsAction="always"/>
+    <item
+        xmlns:itheima="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/action_mode_2"
+        android:icon="@drawable/ic_action_mail"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        itheima:showAsAction="always"/>
+    <item
+        xmlns:itheima="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/action_mode_3"
+        android:icon="@drawable/ic_action_mail"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        itheima:showAsAction="always"/>
+
+</menu>

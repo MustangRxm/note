@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\note\Android\View\ViewGroup\DrawerLayout\Demo\actionbardemo_62\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="D:\note\Android\View\ViewGroup\DrawerLayout\Demo\actionbardemo_62\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-18.0.0_b163c4dabc3238936c940cafe2e0c27649acc079.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\note\Android\View\ViewGroup\DrawerLayout\Demo\actionbardemo_62\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_5c13dae993a3a70564280b74f4a6300075997e8b.jar" />
+    </item>
+    <item
+        jar="D:\note\Android\View\ViewGroup\DrawerLayout\Demo\actionbardemo_62\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="d88d430af62b2d760204a5d2264ff619a4810aae">
+        <dex dex="D:\note\Android\View\ViewGroup\DrawerLayout\Demo\actionbardemo_62\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_dfcffd0d49be03083183c2e2a6aa116a318a3a79.jar" />
+    </item>
+    <item
+        jar="D:\note\Android\View\ViewGroup\DrawerLayout\Demo\actionbardemo_62\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0 rc3"
+        sha1="9ee29968fba9e1b5d89d7aa1331271094f65c889">
+        <dex dex="D:\note\Android\View\ViewGroup\DrawerLayout\Demo\actionbardemo_62\app\build\intermediates\pre-dexed\debug\instant-run_7a56c3509e3513cbc412b1a1bc8cbd154c29b404.jar" />
+    </item>
+
+</items>

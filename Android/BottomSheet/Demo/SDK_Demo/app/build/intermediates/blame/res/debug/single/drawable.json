@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_list_item.xml",
+        "source": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\src\\main\\res\\drawable\\selector_list_item.xml"
+    },
+    {
+        "merged": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_selector.xml",
+        "source": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\src\\main\\res\\drawable\\bmob_update_button_cancel_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_dialog_bg.xml",
+        "source": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\src\\main\\res\\drawable\\bmob_update_dialog_bg.xml"
+    },
+    {
+        "merged": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_tap.xml",
+        "source": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\src\\main\\res\\drawable\\bmob_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_wifi_disable.png",
+        "source": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\src\\main\\res\\drawable\\bmob_update_wifi_disable.png"
+    },
+    {
+        "merged": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_normal.xml",
+        "source": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\src\\main\\res\\drawable\\bmob_update_button_ok_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_normal.xml",
+        "source": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\src\\main\\res\\drawable\\bmob_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button.xml",
+        "source": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\src\\main\\res\\drawable\\selector_button.xml"
+    },
+    {
+        "merged": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_focused.xml",
+        "source": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\src\\main\\res\\drawable\\bmob_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_selector.xml",
+        "source": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\src\\main\\res\\drawable\\bmob_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_cancel_bg_focused.xml",
+        "source": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\src\\main\\res\\drawable\\bmob_update_button_cancel_bg_focused.xml"
+    },
+    {
+        "merged": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_close_bg_selector.xml",
+        "source": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\src\\main\\res\\drawable\\bmob_update_button_close_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_check_selector.xml",
+        "source": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\src\\main\\res\\drawable\\bmob_update_button_check_selector.xml"
+    },
+    {
+        "merged": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bmob_update_button_ok_bg_tap.xml",
+        "source": "D:\\note\\Android\\BottomSheet\\Demo\\SDK_Demo\\app\\src\\main\\res\\drawable\\bmob_update_button_ok_bg_tap.xml"
+    }
+]
